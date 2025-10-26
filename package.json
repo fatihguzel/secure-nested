@@ -1,0 +1,28 @@
+{
+    "name": "secure-nested",
+    "version": "1.0.0",
+    "description": "Safe nested object access utility for JavaScript/TypeScript",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "secure-nested",
+        "nested-access",
+        "object-access",
+        "nested-properties",
+        "optional-chaining",
+        "nullish",
+        "safe",
+        "utility",
+        "helper",
+        "typescript"
+    ],
+    "author": "",
+    "license": "MIT",
+    "exports": {
+        ".": {
+            "require": "./index.js",
+            "import": "./index.js"
+        }
+    },
+    "type": "module"
+}
