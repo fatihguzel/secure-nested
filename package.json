@@ -16,8 +16,16 @@
         "helper",
         "typescript"
     ],
-    "author": "",
+    "author": "Fatih Guzel",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fatihguzel/secure-nested.git"
+    },
+    "homepage": "https://github.com/fatihguzel/secure-nested#readme",
+    "bugs": {
+        "url": "https://github.com/fatihguzel/secure-nested/issues"
+    },
     "exports": {
         ".": {
             "require": "./index.js",
