@@ -2,6 +2,12 @@
 
 Safe nested object access utility for JavaScript/TypeScript. Never crash from `Cannot read property of undefined` again.
 
+[![npm version](https://img.shields.io/npm/v/secure-nested.svg)](https://www.npmjs.com/package/secure-nested)
+[![npm downloads](https://img.shields.io/npm/dm/secure-nested.svg)](https://www.npmjs.com/package/secure-nested)
+[![license](https://img.shields.io/npm/l/secure-nested.svg)](./LICENSE)
+
+📦 [npm](https://www.npmjs.com/package/secure-nested) • 📝 [GitHub](https://github.com/fatihguzel/secure-nested)
+
 ## ✨ Features
 
 -   **Simple**: One-liner API
@@ -119,6 +125,14 @@ safeHas(obj, "user.email"); // false
 -   `path` - Property path
 -   Returns: Exists boolean
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/fatihguzel/secure-nested/issues).
+
 ## 📄 License
 
 MIT
+
+## ⭐ Show Your Support
+
+Give a ⭐ if this project helped you!
